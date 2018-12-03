@@ -1,1 +1,2 @@
 This is new file for user 2
+with changed
